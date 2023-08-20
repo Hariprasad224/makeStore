@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['pshariprasad22.pythonanywhere.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'jazzmin',
+    #'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
